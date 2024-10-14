@@ -1,64 +1,35 @@
-# Snežana Ćulibrk
-
-### Personal details
-- **Name:** Snežana Ćulibrk
-- **Email:** snezanaculibrk2@gmail.com
-- **Phone:** +387520118
-- **Address:** Dragana Bubića 34, 78000 Banja Luka
-- **Date of Birth:** August 12, 1998
-- **LinkedIn:** [linkedin.com/in/sne%C5%BEana%C4%87ulibrk](linkedin.com/in/sne%C5%BEana%C4%87ulibrk)
+Let me introduce you to the world:
 
 ---
 
-### Skills
-- Feedback and Support
-- Research capabilities
-- Assessment and Evaluation
-- Empathy
-- Critical Thinking
-- Facilitation
+### 🌟 Meet Snežana Ćulibrk: A Passionate Educator and Language Enthusiast
 
-### Languages
-- English
-- German
-- Spanish
+Snežana Ćulibrk is an inspiring English language educator with a heart for transforming classrooms and igniting the passion for learning in her students. Born on August 12, 1998, in Banja Luka, she has made a name for herself not only through her dedication to teaching but also through her deep appreciation for literature, languages, and cultural exchange.
+
+### 🎓 Academic Journey
+
+Snežana’s journey began at the University of Banja Luka, where she completed her **Bachelor of Arts in English Language and Literature** in 2023. Her love for language goes beyond grammar and vocabulary—she seeks to explore the vast, intricate world of literature. Currently pursuing her **Master of Arts in English Language and Literature**, she’s delving deeper into literary theory, critical analysis, and advanced linguistic concepts. This academic pursuit is not just about knowledge but also about mastering the art of teaching.
+
+### 👩‍🏫 A Teacher with a Mission
+
+Snežana has honed her skills as an **English teacher** since 2021, beginning with the Centar za afirmaciju i razvoj in Banja Luka. Her teaching philosophy is rooted in creativity, empathy, and student-centered learning. She designs lesson plans that go beyond textbooks—incorporating humor, multimedia, and diverse perspectives to ensure each student feels included and engaged. She’s known for creating a positive, inclusive environment where students are encouraged to find their voice and think critically about the world around them.
+
+Her role as an **ELS Teacher** in Beijing with BEIDA EDU further sharpened her skills. Snežana’s ability to adapt to different cultures and teaching environments allowed her to connect with students on a personal level, using real-life scenarios and multimedia to create immersive language experiences.
+
+### 📊 Multitasking and Mastering Data
+
+Not only does Snežana shine in the classroom, but she also excels in data entry and processing. While working as a **Data Entry and Processing Agent** at DDC MLS, she meticulously handled data with accuracy and confidentiality, contributing to data management protocols that enhanced operational effectiveness.
+
+### 🌍 Multilingual and Culturally Savvy
+
+Snežana’s talents aren’t confined to English. She’s fluent in **German** and **Spanish**, which adds an extra layer to her teaching and communication abilities. This linguistic versatility opens doors for cross-cultural exchange, making her a global citizen in every sense.
+
+### 💡 Innovator with a Vision
+
+At the core of Snežana’s career is her unwavering belief in the power of education. Her goal is to inspire students, not just to learn English, but to engage deeply with texts, discover new perspectives, and find their unique voices. Her dedication to continuous improvement and her creative approach make her a force to be reckoned with in the field of education.
 
 ---
 
-### Education
+Snežana Ćulibrk is more than an educator—she’s a mentor, an innovator, and a lifelong learner. Her ability to bridge cultures, engage students, and manage complex tasks makes her a valuable asset to any institution looking to make a lasting impact through language and education.
 
-**Bachelor of Arts in English Language and Literature**  
-*Oct 2019 - Dec 2023*  
-University of Banja Luka, Banja Luka  
-The study of English Language and Literature has deepened my understanding of language and literary heritage, enhancing my analytical skills and appreciation for diverse voices. This program has ignited my passion for teaching English, with a commitment to transforming students' perspectives on learning. My goal is to share the power of literature and language, encouraging students to engage critically with texts and find their own unique voices.
-
-**Master of Arts in English Language and Literature**  
-*Oct 2023 - Present*  
-University of Banja Luka, Banja Luka  
-Currently pursuing a Master of Arts in English Language and Literature, this program is deepening my understanding of literary theory, critical analysis, and advanced linguistic concepts. It is fostering my research capabilities and enhancing my appreciation for diverse literary traditions. The aim for this degree is to solidify my desire to teach English and implement methodologies that transform and inspire students.
-
----
-
-### Employment
-
-**English teacher**  
-*Oct 2021 - Dec 2022*  
-Centar za afirmaciju i razvoj, Banja Luka  
-- Prepared and managed engaging lesson plans tailored to students’ age and interests, creating a positive and inclusive classroom environment.
-- Utilized humor and multimedia resources to enhance learning and maintain student engagement while incorporating diverse texts and perspectives into the curriculum to enrich students' understanding.
-- Employed digital tools to support varied learning styles and improve outcomes, and provided constructive feedback, inspiring students to take an active interest in their education.
-
-**Data Entry and Processing Agent**  
-*Sep 2022 - Jan 2023*  
-DDC MLS, Banja Luka  
-- Efficiently entered and processed large volumes of data while maintaining high standards of accuracy and confidentiality.
-- Conducted thorough data validation and verification to ensure the integrity and reliability of information.
-- Generated reports and summaries based on data analysis, contributing to informed decision-making within the organization.
-- Assisted in the development of data management protocols and procedures to enhance operational effectiveness.
-
-**ELS Teacher**  
-*Jan 2023 - May 2024*  
-BEIDA EDU, Beijing  
-- Developed and implemented lesson plans that promoted language skills in speaking, listening, reading, and writing.
-- Used a variety of teaching methods and resources, including multimedia and real-life scenarios, to enhance learning experiences.
-- Conducted assessments to evaluate student progress and provided constructive feedback to support their development.
+You can download her cv from [here](/cv.pdf)
